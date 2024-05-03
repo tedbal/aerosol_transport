@@ -1,0 +1,4 @@
+/__pycache__/
+/figs/
+/logs/
+*.log
